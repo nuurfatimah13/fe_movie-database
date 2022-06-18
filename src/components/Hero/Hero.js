@@ -48,7 +48,9 @@ function Hero() {
         </div>
         <div className="hero__right">
           <img
-            src={`https://image.tmdb.org/t/p/w500/${movie.backdrop_path}`}
+            src={
+              movie && `https://image.tmdb.org/t/p/w500/${movie.backdrop_path}`
+            }
             alt={movie.title}
           />
         </div>
