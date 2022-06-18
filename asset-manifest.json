@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fe_movie-database/static/css/main.95856aa9.css",
-    "main.js": "/fe_movie-database/static/js/main.8db7d5ce.js",
+    "main.js": "/fe_movie-database/static/js/main.05be5ec6.js",
     "static/js/787.d02d9e27.chunk.js": "/fe_movie-database/static/js/787.d02d9e27.chunk.js",
     "index.html": "/fe_movie-database/index.html",
     "main.95856aa9.css.map": "/fe_movie-database/static/css/main.95856aa9.css.map",
-    "main.8db7d5ce.js.map": "/fe_movie-database/static/js/main.8db7d5ce.js.map",
+    "main.05be5ec6.js.map": "/fe_movie-database/static/js/main.05be5ec6.js.map",
     "787.d02d9e27.chunk.js.map": "/fe_movie-database/static/js/787.d02d9e27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95856aa9.css",
-    "static/js/main.8db7d5ce.js"
+    "static/js/main.05be5ec6.js"
   ]
 }
